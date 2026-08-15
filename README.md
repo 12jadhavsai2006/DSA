@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/12jadhavsai2006/DSA/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/12jadhavsai2006/DSA/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/12jadhavsai2006/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/12jadhavsai2006/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/12jadhavsai2006/DSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/12jadhavsai2006/DSA/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -49,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/12jadhavsai2006/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
