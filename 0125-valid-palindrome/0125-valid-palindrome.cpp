@@ -4,11 +4,9 @@ public:
         int i = 0, j = s.size() - 1;
         
         while (i < j) {
-            // skip non-alphanumeric from the left
             while (i < j && !isalnum(s[i])) {
                 i++;
             }
-            // skip non-alphanumeric from the right
             while (i < j && !isalnum(s[j])) {
                 j--;
             }
