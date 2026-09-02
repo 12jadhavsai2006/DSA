@@ -1,3 +1,6 @@
+// TC : O(nlogn)
+// SC : O(logn)
+
 class Solution {
 public:
     int countPairs(vector<int>& nums, int target) {
