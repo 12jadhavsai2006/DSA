@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/12jadhavsai2006/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/12jadhavsai2006/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/12jadhavsai2006/DSA/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/12jadhavsai2006/DSA/tree/master/2029-stone-game-ix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/12jadhavsai2006/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/12jadhavsai2006/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/12jadhavsai2006/DSA/tree/master/0125-valid-palindrome) |
+| [0977-squares-of-a-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/12jadhavsai2006/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/12jadhavsai2006/DSA/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/12jadhavsai2006/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Minimax
 |  |
