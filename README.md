@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/12jadhavsai2006/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/12jadhavsai2006/DSA/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/12jadhavsai2006/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/12jadhavsai2006/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/12jadhavsai2006/DSA/tree/master/0011-container-with-most-water) |
 | [2029-stone-game-ix](https://github.com/12jadhavsai2006/DSA/tree/master/2029-stone-game-ix) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/12jadhavsai2006/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/12jadhavsai2006/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/12jadhavsai2006/DSA/tree/master/0344-reverse-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/12jadhavsai2006/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Simulation
 |  |
 | ------- |
