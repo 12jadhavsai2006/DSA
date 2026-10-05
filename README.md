@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/12jadhavsai2006/DSA/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/12jadhavsai2006/DSA/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/12jadhavsai2006/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/12jadhavsai2006/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2029-stone-game-ix](https://github.com/12jadhavsai2006/DSA/tree/master/2029-stone-game-ix) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/12jadhavsai2006/DSA/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/12jadhavsai2006/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/12jadhavsai2006/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/12jadhavsai2006/DSA/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/12jadhavsai2006/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
