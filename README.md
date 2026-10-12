@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/12jadhavsai2006/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/12jadhavsai2006/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/12jadhavsai2006/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/12jadhavsai2006/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/12jadhavsai2006/DSA/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/12jadhavsai2006/DSA/tree/master/2029-stone-game-ix) |
