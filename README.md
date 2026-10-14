@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/12jadhavsai2006/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/12jadhavsai2006/DSA/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/12jadhavsai2006/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/12jadhavsai2006/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/12jadhavsai2006/DSA/tree/master/0169-majority-element) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/12jadhavsai2006/DSA/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/12jadhavsai2006/DSA/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/12jadhavsai2006/DSA/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/12jadhavsai2006/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/12jadhavsai2006/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
