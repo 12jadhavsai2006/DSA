@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/12jadhavsai2006/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/12jadhavsai2006/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/12jadhavsai2006/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0905-sort-array-by-parity](https://github.com/12jadhavsai2006/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/12jadhavsai2006/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/12jadhavsai2006/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/12jadhavsai2006/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/12jadhavsai2006/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/12jadhavsai2006/DSA/tree/master/0392-is-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/12jadhavsai2006/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/12jadhavsai2006/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/12jadhavsai2006/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/12jadhavsai2006/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/12jadhavsai2006/DSA/tree/master/0217-contains-duplicate) |
+| [0905-sort-array-by-parity](https://github.com/12jadhavsai2006/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2706-buy-two-chocolates](https://github.com/12jadhavsai2006/DSA/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/12jadhavsai2006/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
