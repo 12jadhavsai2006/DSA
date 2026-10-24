@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/12jadhavsai2006/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/12jadhavsai2006/DSA/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/12jadhavsai2006/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/12jadhavsai2006/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/12jadhavsai2006/DSA/tree/master/0169-majority-element) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/12jadhavsai2006/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/12jadhavsai2006/DSA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/12jadhavsai2006/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/12jadhavsai2006/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/12jadhavsai2006/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/12jadhavsai2006/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/12jadhavsai2006/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/12jadhavsai2006/DSA/tree/master/0217-contains-duplicate) |
@@ -156,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/12jadhavsai2006/DSA/tree/master/0643-maximum-average-subarray-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/12jadhavsai2006/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/12jadhavsai2006/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
