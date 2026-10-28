@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/12jadhavsai2006/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/12jadhavsai2006/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/12jadhavsai2006/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1052-grumpy-bookstore-owner](https://github.com/12jadhavsai2006/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/12jadhavsai2006/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/12jadhavsai2006/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/12jadhavsai2006/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/12jadhavsai2006/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1052-grumpy-bookstore-owner](https://github.com/12jadhavsai2006/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/12jadhavsai2006/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/12jadhavsai2006/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Quicksort
